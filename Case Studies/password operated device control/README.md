@@ -24,3 +24,8 @@
 **RELAY**: It is the controlling unit drives an electrical drive and used as a switch to operate the particular device.
 
 **MICRO CONTROLLER**: The details set by the user are stored in microcontroller.As soon as the user enters the code, the microcontroller receives the signal and accordingly        controls the controlling section.
+
+**APPLICATIONS**
+* The user can control all the domestic appliances for exaple Light,Tv,Fan etc using different password.
+* It can be used at organizations to ensure authorized access to highly secured places.
+* Military and aerospace embedded software application.
