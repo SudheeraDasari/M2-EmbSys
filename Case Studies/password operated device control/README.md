@@ -5,7 +5,7 @@
 
 **High Level Requirement**
 * Correct code or password should be entered,the it can allowed access.
-* If the password entered is wrong security.
+* Increase the security level to prevent an unauthorized unlocking.
 
 **Low Level Requirements**
 * 
