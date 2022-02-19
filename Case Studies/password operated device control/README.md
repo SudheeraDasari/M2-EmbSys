@@ -8,9 +8,10 @@
 * Increase the security level to prevent an unauthorized unlocking.
 
 **Low Level Requirements**
+
 * Must be entered correctly within a certain number of attempts.
 * LCD display.
-* The password on LCD diplays as '****' on the keypad.
+* The password on LCD diplays as '****' as the number is clicked on keypad.
 
 **Description of block daigram**
 
@@ -18,6 +19,8 @@
 
 **LCD**: These are the final indicating devices for displaying the information.
 
-**ELECTRIC DRIVE**: In this .electric bulb is used as electric drive.
+**ELECTRIC DRIVE**: In this electric bulb is used as electric drive.
 
-**RELAY**: It drives this motor by receiving control signals from the microcontroller.
+**RELAY**: It is the controlling unit drives an electrical drive and used as a switch to operate the particular device.
+
+**MICRO CONTROLLER**: The details set by the user are stored in microcontroller.As soon as the user enters the code, the microcontroller receives the signal and accordingly        controls the controlling section.
