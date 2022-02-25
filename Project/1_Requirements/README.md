@@ -32,7 +32,7 @@ We need to save or conserve energy because most of the energy sources we depend 
 # Strengths
  * Less/almost no human interaction.
  * Saves electricity.
- * 
+ 
 # Weaknesses
 * As it is used at outdoor applications risk og theft of the system is relatively higher.
 
