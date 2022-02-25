@@ -34,7 +34,7 @@ We need to save or conserve energy because most of the energy sources we depend 
  * Saves electricity.
  
 # Weaknesses
-* As it is used at outdoor applications risk og theft of the system is relatively higher.
+* As it is used at outdoor applications risk of theft of the system is relatively higher.
 
 # Oppurnities
  * The scope of this system is more at street lights, ares people who are taking care to turn off the lights.
