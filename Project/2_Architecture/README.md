@@ -25,3 +25,7 @@ PIC161F877A microcontroller is used interfaced with light sensor to sense amount
 It is used for supplying the circuit.
 
 ## Flow Chart
+
+![flow chart](https://user-images.githubusercontent.com/87614111/155730323-49fef84c-520a-42d5-9bcf-b601065ae22c.jpg)
+
+
