@@ -27,3 +27,42 @@ We need to save or conserve energy because most of the energy sources we depend 
 
 ## S.W.O.T Analysis
 
+![image](https://user-images.githubusercontent.com/87614111/155712022-4b22d919-09df-451d-b3fc-5bac8dcf3e5d.png)
+
+# Strengths
+ * Less/almost no human interaction.
+ * Saves electricity.
+ * 
+# Weaknesses
+* As it is used at outdoor applications risk og theft of the system is relatively higher.
+
+# Oppurnities
+ * The scope of this system is more at street lights, ares people who are taking care to turn off the lights.
+ * 
+# Threats
+* High initial cost for hardware design.
+
+## 4W's And 1H
+
+# Who
+The Street lights are used for those who are irrseponsible by seeing street lights ON during daytime and not switching OFF.
+
+# What
+Automatic control of street lights is deigned to turn on and turn of street lights automatically.
+
+# When
+whwn we are going out we need streetlights in order to avoid accidents and turn off automatically when not in use.
+
+# Where
+These are used in streets and rural areas.
+
+# How
+ The circuit uses a light sensor to sense the light and PIC161F877A microcontroller is used interfaced with light sensor to sense amount of light available. Control signal is     generated with the help of pic16f877a microcontroller after analyzing amount of light.
+ 
+ # Applications
+ * If a person is  too much lazy to turn on or turn off your street light manually and you forget to turn it on or off daily. 
+ *  In countries where load shedding is a big issue due to short fall in electricity and less in resources to generate electricity.
+ *   By using automatic control of street lights, we can save maximum amount of energy which is useful for your nation and also beneficial for you. 
+ 
+
+
