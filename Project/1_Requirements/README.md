@@ -61,8 +61,8 @@ These are used in streets and rural areas.
  
  # Applications
  * If a person is  too much lazy to turn on or turn off your street light manually and you forget to turn it on or off daily. 
- *  In countries where load shedding is a big issue due to short fall in electricity and less in resources to generate electricity.
- *   By using automatic control of street lights, we can save maximum amount of energy which is useful for your nation and also beneficial for you. 
+ *  In countries where load shedding is a big issue due to short fall in electricity and less in resources to generate      electricity.
+ *   By using automatic control of street lights, we can save maximum amount of energy which is useful for our nation and also beneficial for us. 
  
 
 
