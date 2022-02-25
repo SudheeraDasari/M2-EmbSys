@@ -38,7 +38,7 @@ We need to save or conserve energy because most of the energy sources we depend 
 
 # Oppurnities
  * The scope of this system is more at street lights, ares people who are taking care to turn off the lights.
- * 
+
 # Threats
 * High initial cost for hardware design.
 
