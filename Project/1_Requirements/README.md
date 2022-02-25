@@ -26,3 +26,4 @@ We need to save or conserve energy because most of the energy sources we depend 
 * The microcontroller should be loaded with code and activate the lights when sensor activated.
 
 ## S.W.O.T Analysis
+
