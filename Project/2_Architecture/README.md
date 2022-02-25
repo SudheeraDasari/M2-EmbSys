@@ -2,11 +2,8 @@
 
 
 
-![street ifgt BD (1)](https://user-images.githubusercontent.com/87614111/155726437-fc2b13a6-4194-4d91-a3ae-ab7ffa883c59.jpg)
+![street ifgt BD (2)](https://user-images.githubusercontent.com/87614111/155726708-655ed321-67e5-4839-b58f-dad108a8813e.jpg)
 
-
-
-## Description
 
 ## Light sensor (Push Buttons):
 
