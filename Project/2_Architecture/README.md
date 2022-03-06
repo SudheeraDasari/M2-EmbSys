@@ -12,8 +12,9 @@
 # ACTUATOR
 
 ## LCD Display:
-    Display each and every value we enter in our keypad.
 
+    
+    Displays each and every value we enter in our keypad.
  ## Servo Motor:
  
    Helps in opening and closing our doors.
