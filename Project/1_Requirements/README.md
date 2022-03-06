@@ -1,68 +1,73 @@
-# AUTOMATIC CONTROL OF STREET LIGHTS
+# PASSWORD BASED DOOR LOCKING SYSTEM USING ARDUINO
 
 ## ABSTRACT
 
- Automatic control of street lights is deigned to turn on and turn of street lights automatically. This project check the amount of light. If light is 80 percent available, i automatically turn off street lights. But if amount of light is less than 80 percent, this project will automatically turn on street lights. one can also adjust it according to    its requirement.The circuit uses a light sensor to sense the light. It doesn’t need operator maintenance and initial installation setup.Light sensors and micro controller, relay  are the main components of the project. Light sensor is like our eye which detect the presence of an object and Relay is an electromagnetic device which is used to isolate two
-circuits electrically and connect them magnetically.
+In this digitally dependent world, the security is most concern for every one of us. As we all are facing the fearof robbery, people cannot keep their valuable things
+safely even at their own houses, banks or in any otherplaces. They are always in fear of losing their valuablethings. Old traditional locking system is not that safe password  based door locking system.So, in this project we have work for all these problem and this project provide much more lock security ascompare to traditional lock security. We have replacedthe old traditional lock system with password. Thisproject will provide efficient security to the users at lowcost. It will be also easy to implement and give safety in any places like our houses, institutions, banks or anyother public places. If the users forgot the password,then he/she will change or reset the password, which
+gives the more flexibility to the users.
+ 
 
 ## INTRODUCTION
 
-The Street lights are the major requirements in today’s life for safety purposes and avoiding accidents during night. Providing street lighting is one of the most important and expensive responsibilities of a city.Street lighting is a particularly critical concern for public authorities in developing countries.Despite that in today’s busy lifestyle no one bothers to switch it OFF/ON when not required.
+As we all are very familiar with the term “Security”.Nowadays it is most important to keep our valuablethings safe. The world is also growing digitallydependent, and we can even design the doors to be moresecure. We can make these digital doors by using “Password” which is more secure than traditional lock system.In this project we have make a “Password Based DoorLocking System” using an Arduino. It will be more efficient for the peoples in the field of security. It will be implemented in any places like our Houses, Institutions,Banks and any Public Places. We can only be able open the door if we entered correct password for door and if users entered an incorrect password, then message will be display or door will not be open.  
 
 ## LITERATURE SURVEY
 
-We need to save or conserve energy because most of the energy sources we depend on, like coal and natural gas can’t be replaced. Once we use them up, they’re gone forever. Saving power is very important, instead of using the power in unnecessary times it should be switched off. In any city STREET LIGHT is one of the major power consuming factors. Most of the time we see street lights are ON even after sunrise thus wasting lot of energy. Over here we are avoiding the problem by having an automatic system which turns ON OFF the street lights at given time or when the ambient light falls below a specific. intensity. Each controller has an LDR which is used to detect the ambient light. If the ambient light is below a specific value the lights are turned ON. A light dependent sensors is interfaced to PIC161F877A microcontroller it is used to track the sun light and when the sensors goes dark the led will be made on and when the sensor founds light the led will be made OFF. 
+The main objective of this project is to relinquish safety at each common place like home, public places. During this project all the data hold on within the info. once the
+proper word are going to be entered, the microcontroller can provide steering to servo engine then door can unlock. What we want is computerised innovation to develop a coordinated and every one around altered upbeat framework at a worth that is wise.
+
 
 ## High Level Requirements
 
-* To provide lighting to the streets such that minimum possible power is consumed during nights.
-* To manage the traffic flow smoothly and efficiently during night.
-* To develop the simulation  of control unit.
-*  To test and validate the designed system.
+* System shall control opening of Doors by pressing a number on Keypad.
+* There shall be a LCD to display the numbers we press as '*'.
+* A password shall be provided for our system.
 
 ## Low Level Requirement
 
-* According to the values of LDR to control the lights.
-* The microcontroller should be loaded with code and activate the lights when sensor activated.
+* According to the values of Keypad opening of door  shall be controlled.
+* Entered value on keypad shall be displayed on LCD Screen as '*'.
+* If the password is wrong the LCD displays as wrong password.
+* Doors  shall open when the Password is matched.
 
 ## S.W.O.T Analysis
 
 ![image](https://user-images.githubusercontent.com/87614111/155712022-4b22d919-09df-451d-b3fc-5bac8dcf3e5d.png)
 
 # Strengths
- * Less/almost no human interaction.
- * Saves electricity.
+ * Less human interactions.
+ * Displays password as '*' so that no one can see except that person.
  
 # Weaknesses
-* As it is used at outdoor applications risk of theft of the system is relatively higher.
+* Some times Code hacking may possible if someone could guess our password.
+* This system cannot run if there is electric problems.
 
 # Oppurnities
- * The scope of this system is more at street lights, ares people who are taking care to turn off the lights.
+ * The scope of this system is more at  home, public places etc.
 
 # Threats
-* High initial cost for hardware design.
+* High chances of pin hacking.
+* Forgotting password can also causes risk to the users.
 
 ## 4W's And 1H
 
 # Who
-The Street lights are used for those who are irrseponsible by seeing street lights ON during daytime and not switching OFF.
+The password control door locking  are used in homes,public places.
 
 # What
-Automatic control of street lights is deigned to turn on and turn of street lights automatically.
+The password control door lockingr is used to provide lock for door by using password.
 
 # When
-whwn we are going out we need streetlights in order to avoid accidents and turn off automatically when not in use.
+The password control door locking is used when homes and public places needslocks for the door.
 
 # Where
-These are used in streets and rural areas.
+These are used in  homes and public placess.
 
 # How
- The circuit uses a light sensor to sense the light and PIC161F877A microcontroller is used interfaced with light sensor to sense amount of light available. Control signal is     generated with the help of pic16f877a microcontroller after analyzing amount of light.
+ The circuit uses a Arduino with lcd display and servo motor as a door locking.
  
  # Applications
- * If a person is  too much lazy to turn on or turn off your street light manually and you forget to turn it on or off daily. 
- *  In countries where load shedding is a big issue due to short fall in electricity and less in resources to generate      electricity.
- *   By using automatic control of street lights, we can save maximum amount of energy which is useful for our nation and also beneficial for us. 
- 
-
-
+ * This system can be used in Door Control of Houses.
+ * This system can be used in Door Control of Industries.
+ * This system can be used in Door Control of Stadiums etc...
+  
