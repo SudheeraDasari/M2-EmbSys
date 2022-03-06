@@ -12,8 +12,7 @@
 # ACTUATOR
 
 ## LCD Display:
-
-    Displays each and every value we enter in our keypad.
+    Display each and every value we enter in our keypad.
 
  ## Servo Motor:
  
