@@ -1,6 +1,6 @@
 # M2-EmbSys
 # BADGES
-[![CI](https://github.com/SudheeraDasari/M2-EmbSys/actions/workflows/main.yml/badge.svg)](https://github.com/SudheeraDasari/M2-EmbSys/actions/workflows/main.yml)
+[![C/C++ CI](https://github.com/SudheeraDasari/M2-EmbSys/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SudheeraDasari/M2-EmbSys/actions/workflows/c-cpp.yml)
 
 [![Build-Linux](https://github.com/SudheeraDasari/M2-EmbSys/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/SudheeraDasari/M2-EmbSys/actions/workflows/Build-Linux.yml)
 
