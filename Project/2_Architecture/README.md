@@ -13,8 +13,15 @@
 
 ## LCD Display:
 
+  Displays each and every value we enter in our keypad.
     
-    Displays each and every value we enter in our keypad.
+   
+   
+   
+   
+   ![keypad](https://user-images.githubusercontent.com/87614111/157076734-c5e28aa1-9e9c-4b62-aaea-bbbedd9f094a.JPG)
+    
+    
  ## Servo Motor:
  
    Helps in opening and closing our doors.
