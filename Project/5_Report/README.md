@@ -71,6 +71,10 @@ These are used in  homes and public placess.
  * This system can be used in Door Control of Industries.
  * This system can be used in Door Control of Stadiums etc...
  
+##  CONCLUSION
+This project provides enough security as long as the password is not shared. This secret key based entryway locking system can end up being a less expensive then the costly entryway locking system which utilizes retina check. The outcomes of the model were as per our expectation. Hence, everyone can afford to shop for such locking system at lowest price to keep his valuable things safe.
+
+
  ## BLOCK DIAGRAM
 
 ![poasswordbased](https://user-images.githubusercontent.com/87614111/156913304-2c153a7d-5473-4811-bf7a-d4f188471a68.jpg)
@@ -122,7 +126,7 @@ This microcontroller depends on the ATmega328P. There are all out of 20 pins (0-
 ## TestPlan
 
 
-  |    ID	   |  Description	    | Expected I/P	  |   Expected O/P      |	 Actual O/P	   |  Type of Test  |
+  |  Test ID	   |  Description	    | Expected I/P	  |   Expected O/P      |	 Actual O/P	   |  Type of Test  |
   |----------|------------------|-----------------|---------------------|----------------|----------------|
   |          |                  |                 |                     |                |                |
   |  HP01    |controlling of doors by pressing number on keypad   |  pressing password  |   **** |      Pass	     |  Requirement   |
