@@ -6,9 +6,7 @@
 
 [![Cppcheck](https://github.com/SudheeraDasari/M2-EmbSys/actions/workflows/cpp-check.yml/badge.svg)](https://github.com/SudheeraDasari/M2-EmbSys/actions/workflows/cpp-check.yml)
 
-# CODIGA ![codiga 3](https://api.codiga.io/project/31620/status/svg)
+![codiga 3](https://api.codiga.io/project/31620/status/svg)
 
-|  codacy  |  codiga  |  Workflow  |  CPP_check action  |  Unit Testing  | CI Passing | git inspector | Build-Linux |
-|:--------:|:--------:|:----------:|:------------------:|:--------------:|:----------:|:-------------:|:-----------:|
-|   |   ![icode grade](https://api.codiga.io/project/31620/score/svg )![icode grade](https://api.codiga.io/project/31620/status/svg) |  [![Manual workflow](https://github.com/SudheeraDasari/M1_Quiz_Game/actions/workflows/manual.yml/badge.svg?branch=main)](https://github.com/SudheeraDasari/M1_Quiz_Game/actions/workflows/manual.yml) | [![cppcheck-action](https://github.com/SudheeraDasari/M1_Quiz_Game/actions/workflows/Static-cpp.yml/badge.svg)](https://github.com/SudheeraDasari/M1_Quiz_Game/actions/workflows/Static-cpp.yml) | [![Manual workflow](https://github.com/SudheeraDasari/M1_Quiz_Game/actions/workflows/manual.yml/badge.svg)](https://github.com/SudheeraDasari/M1_Quiz_Game/actions/workflows/manual.yml) | [![C/C++ CI](https://github.com/SudheeraDasari/M2-EmbSys/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SudheeraDasari/M2-EmbSys/actions/workflows/c-cpp.yml)
- | [![Git Inspector](https://github.com/SudheeraDasari/M1_Quiz_Game/actions/workflows/git%20inspector.yml/badge.svg)](https://github.com/SudheeraDasari/M1_Quiz_Game/actions/workflows/git%20inspector.yml) | 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/04b523a8ce6a4011814b739cc9042741)](https://www.codacy.com/gh/SudheeraDasari/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SudheeraDasari/M2-EmbSys&amp;utm_campaign=Badge_Grade)
+
