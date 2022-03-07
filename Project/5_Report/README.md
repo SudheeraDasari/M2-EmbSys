@@ -81,6 +81,8 @@ These are used in  homes and public placess.
 ## Sensor
 #  4x4 Matrix Keypad
   The 4x4 Matrix Keypad interfaced is to take the input from the person. We can enter the preset password to test the validity of the password. If the password is valid then,     the door lock will be unlocked. If invalid, the door lock will continue to be locked. The 4x4 Matrix Keypad includes 4 rows and 4 columns. There is a transfer that connects     every row and column. In our project We will use only the numeric between 0-9 keys along with * to change the password.
+  
+   ![keypad](https://user-images.githubusercontent.com/87614111/157076734-c5e28aa1-9e9c-4b62-aaea-bbbedd9f094a.JPG)
 
 # ACTUATOR
 
@@ -89,8 +91,15 @@ These are used in  homes and public placess.
     
     Displays each and every value we enter in our keypad.
     
-    ![keypad](https://user-images.githubusercontent.com/87614111/157076734-c5e28aa1-9e9c-4b62-aaea-bbbedd9f094a.JPG)
- ## Servo Motor:
+   
+   
+   
+   
+   ![lcd](https://user-images.githubusercontent.com/87614111/157076750-5294ecba-2065-455d-9bda-bd6d1d4ce533.JPG) 
+
+
+
+## Servo Motor:
  
    Helps in opening and closing our doors.
 
