@@ -34,6 +34,9 @@
 
 This microcontroller depends on the ATmega328P. There are all out of 20 pins (0-19) out of which 6 are simple information sources, 14 are computerized input yield pins(6 pins give PWM voltage) which can like be utilized as broadly useful pins, a ceramic resonator of recurrence 16 MHz, a USB association, a force jack and a reset button. It has a working voltage of 5V. It contains all that expected to help a microcontroller.
 
+![arduinouno](https://user-images.githubusercontent.com/87614111/157077002-6e63af0e-7fee-4f58-b9cc-4fd88879841a.JPG)
+
+
 
 ## Flow Chart
 
