@@ -6,4 +6,4 @@
 
 [![Cppcheck](https://github.com/SudheeraDasari/M2-EmbSys/actions/workflows/cpp-check.yml/badge.svg)](https://github.com/SudheeraDasari/M2-EmbSys/actions/workflows/cpp-check.yml)
 
-![codiga 3](https://api.codiga.io/project/31620/status/svg)
+# CODIGA ![codiga 3](https://api.codiga.io/project/31620/status/svg)
