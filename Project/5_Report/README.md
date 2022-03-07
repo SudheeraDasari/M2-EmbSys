@@ -100,4 +100,19 @@ This microcontroller depends on the ATmega328P. There are all out of 20 pins (0-
 ## Flow Chart
 
 ![flowchart password](https://user-images.githubusercontent.com/87614111/156913649-8bd922e8-886f-4718-8f5d-d51765ba4567.jpg)
+
+
+## TestPlan
+
+
+  |    ID	   |  Description	    | Expected I/P	  |   Expected O/P      |	 Actual O/P	   |  Type of Test  |
+  |----------|------------------|-----------------|---------------------|----------------|----------------|
+  |          |                  |                 |                     |                |                |
+  |  HP01    |controlling of doors by pressing number on keypad   |  pressing password  |   **** |      Pass	     |  Requirement   |
+  | HP02 | Lcd displays    |	  password |  matches	   |  Pass	       |  Requirement    |
+  | HP03 | Incorect password     |	 pressing wrong password  |  showing incorect password	   |  Pass	       |  Requirement    |
+  | HP04 | Servo motor using as door     |	  opening the door |  Opens doors	   |  Pass	       |  Requirement    |
+  | HP05 | closing door     |	after  specific seconds   |  closes door	   |  Pass	       |  Requirement    |
+  
+
   
