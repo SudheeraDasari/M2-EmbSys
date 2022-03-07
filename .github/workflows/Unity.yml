@@ -1,4 +1,4 @@
-nname: Unit Testing - Unity
+name: Unit Testing - Unity
 
 on:
   push:
