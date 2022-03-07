@@ -1,10 +1,6 @@
 **
  * This is header file
  */
-
-
-
-
 #ifndef DOOR_LOCK_H
 #define DOOR_LOCK_H
 #include <Arduino.h>
