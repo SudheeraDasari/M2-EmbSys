@@ -27,6 +27,8 @@
  ## Servo Motor:
  
    Helps in opening and closing our doors.
+   
+   ![servo](https://user-images.githubusercontent.com/87614111/157076797-eec46659-978d-42c3-b374-0491f493c952.JPG)
 
 ## Arduino Uno
 
