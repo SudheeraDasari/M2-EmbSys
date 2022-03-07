@@ -70,4 +70,9 @@ These are used in  homes and public placess.
  * This system can be used in Door Control of Houses.
  * This system can be used in Door Control of Industries.
  * This system can be used in Door Control of Stadiums etc...
+
+
+## CONCLUSION
+This project provides enough security as long as the password is not shared. This secret key based entryway locking system can end up being a less expensive then the costly entryway locking system which utilizes retina check. The outcomes of the model were as per our expectation. Hence, everyone can afford to shop for such locking system at lowest price to keep his valuable things safe.
+
   
