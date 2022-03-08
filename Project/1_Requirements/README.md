@@ -75,4 +75,9 @@ These are used in  homes and public placess.
 ## CONCLUSION
 This project provides enough security as long as the password is not shared. This secret key based entryway locking system can end up being a less expensive then the costly entryway locking system which utilizes retina check. The outcomes of the model were as per our expectation. Hence, everyone can afford to shop for such locking system at lowest price to keep his valuable things safe.
 
+## References
+[1]Working principle of an Arduino ,Abuja, Electronics and Computation (ICECCO):11th international conference IEEE
+https://www.irjet.net/archives/V8/i8/IRJET-V8I8111.pdf and with the help of youtube videos
+
+
   
