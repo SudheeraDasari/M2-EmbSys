@@ -71,8 +71,6 @@ These are used in  homes and public placess.
  * This system can be used in Door Control of Industries.
  * This system can be used in Door Control of Stadiums etc...
  
-##  CONCLUSION
-This project provides enough security as long as the password is not shared. This secret key based entryway locking system can end up being a less expensive then the costly entryway locking system which utilizes retina check. The outcomes of the model were as per our expectation. Hence, everyone can afford to shop for such locking system at lowest price to keep his valuable things safe.
 
 
  ## BLOCK DIAGRAM
@@ -119,7 +117,7 @@ This microcontroller depends on the ATmega328P. There are all out of 20 pins (0-
 
 ## Flow Chart
 
-![flowchart password](https://user-images.githubusercontent.com/87614111/156913649-8bd922e8-886f-4718-8f5d-d51765ba4567.jpg)
+![FLOWCHART](https://user-images.githubusercontent.com/87614111/157232756-aded875f-bb2a-4bd5-b950-e0790f147c66.jpg)
 
 
 ## TestPlan
@@ -133,6 +131,8 @@ This microcontroller depends on the ATmega328P. There are all out of 20 pins (0-
   | HP03 | Incorect password     |	 pressing wrong password  |  showing incorect password	   |  Pass	       |  Requirement    |
   | HP04 | Servo motor using as door     |	  opening the door |  Opens doors	   |  Pass	       |  Requirement    |
   | HP05 | closing door     |	after  specific seconds   |  closes door	   |  Pass	       |  Requirement    |
+  
+  
   
 ## ImagesAndOutput
 
@@ -151,10 +151,16 @@ This microcontroller depends on the ATmega328P. There are all out of 20 pins (0-
 
 ![relocking](https://user-images.githubusercontent.com/87614111/157023900-3e30cf06-8048-424f-be0a-2cecddc5ff61.JPG)
 
+
+
+##  CONCLUSION
+This project provides enough security as long as the password is not shared. This secret key based entryway locking system can end up being a less expensive then the costly entryway locking system which utilizes retina check. The outcomes of the model were as per our expectation. Hence, everyone can afford to shop for such locking system at lowest price to keep his valuable things safe.
+
+
   
 ## References
-[1]Working principle of an Arduino ,Abuja, Electronics and Computation (ICECCO):11th international conference IEEE
-https://www.irjet.net/archives/V8/i8/IRJET-V8I8111.pdf and with the help of youtube videos
+* [1]Working principle of an Arduino ,Abuja, Electronics and Computation (ICECCO):11th international conference IEEE
+* https://www.irjet.net/archives/V8/i8/IRJET-V8I8111.pdf and with the help of youtube videos
 
 
   
