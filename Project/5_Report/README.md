@@ -153,3 +153,9 @@ This microcontroller depends on the ATmega328P. There are all out of 20 pins (0-
 ![relocking](https://user-images.githubusercontent.com/87614111/157023900-3e30cf06-8048-424f-be0a-2cecddc5ff61.JPG)
 
   
+## References
+[1]Working principle of an Arduino ,Abuja, Electronics and Computation (ICECCO):11th international conference IEEE
+https://www.irjet.net/archives/V8/i8/IRJET-V8I8111.pdf and with the help of youtube videos
+
+
+  
