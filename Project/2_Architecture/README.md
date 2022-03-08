@@ -39,9 +39,8 @@ This microcontroller depends on the ATmega328P. There are all out of 20 pins (0-
 
 ## Flow Chart
 
-![flowchart password](https://user-images.githubusercontent.com/87614111/156913649-8bd922e8-886f-4718-8f5d-d51765ba4567.jpg)
+![FLOWCHART](https://user-images.githubusercontent.com/87614111/157232756-aded875f-bb2a-4bd5-b950-e0790f147c66.jpg)
 
- 
 
 
 
